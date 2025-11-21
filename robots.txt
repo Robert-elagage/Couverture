@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Autoriser tous les robots à explorer tout le site
+# (GitHub Pages n'a pas de dossiers sensibles)
+
+# Sitemap
+Sitemap: https://ton-username.github.io/cmp-renovation/sitemap.xml
